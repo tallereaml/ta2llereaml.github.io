@@ -1,6 +1,4 @@
-import { GoogleAuthProvider } from "firebase/auth";
 
-const provider = new GoogleAuthProvider();
 
 import { getAuth, signInWithPopup, GoogleAuthProvider } from "firebase/auth";
 

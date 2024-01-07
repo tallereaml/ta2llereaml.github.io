@@ -1,6 +1,6 @@
 
 
-import { initializeApp } from 'firebase/app';
+import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.7.0/firebase-app .js';
 
 // TODO: Replace the following with your app's Firebase project configuration
 const firebaseConfig = {
